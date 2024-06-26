@@ -1,3 +1,6 @@
 The folder name states what kind of topics are used within it.
 <br>
-Any folder with furthur technologies may contain previous technologies. 
+input,output>strings>conditional>
+<br>
+each folder from right may contain technologies from left folders
+<br>
