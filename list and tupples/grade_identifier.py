@@ -1,0 +1,11 @@
+list=[]
+list.append(input("Write the grade of first student: ",))
+list.append(input("Write the grade of first student: ",))
+list.append(input("Write the grade of first student: ",))
+list.append(input("Write the grade of first student: ",))
+list.append(input("Write the grade of first student: ",))
+print (list)
+list.sort()
+print (list)
+i=input("which grade do you want to copy: ",)
+print(list.count(i))
